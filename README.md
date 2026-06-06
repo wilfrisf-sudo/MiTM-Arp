@@ -82,6 +82,7 @@ Router# configure terminal
 Router(config)# arp 192.168.124.133 000c.294f.b6be arpa
 
 6. Evidencias
+
 6.1. Demostración en Video
 En el siguiente enlace se encuentra el video demostrativo donde se visualiza la topología con la ejecución del ataque y la aplicación de la contramedida:
 
